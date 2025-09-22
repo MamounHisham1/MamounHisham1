@@ -6,15 +6,15 @@ I am a self-taught **Full-Stack Developer** with hands-on bootcamp training unde
 Passionate about coding, problem-solving, and continuous learning, I strive to deliver **high-quality backend solutions** and **modern user experiences**.  
 
 ## My Projects
-- **[Qufran](#)** - Islamic Educational Platform  
+- **[Qufran](https://qufran.com)** - Islamic Educational Platform  
   ➝ Built with Laravel + Filament + Tailwind + APIs for Quran & Hadith.  
-- **[Electron](#)** - E-commerce Platform  
+- **[Electron](electron.devloom.online)** - E-commerce Platform  
   ➝ Full-featured Laravel e-commerce with Stripe integration & Filament admin.  
-- **[Fahm](#)** - Multi-Tenant EdTech Platform  
+- **[Fahm](fahm.devloom.online)** - Multi-Tenant EdTech Platform  
   ➝ SaaS architecture, Stripe billing, multi-admin panels, dark mode support.  
-- **[Shifaa](#)** - Healthcare Appointment Platform  
+- **[Shifaa](https://github.com/MamounHisham1/shifaa-front)** - Healthcare Appointment Platform  
   ➝ Laravel REST API + Vue 3 frontend with real-time appointment booking.  
-- **[Whisper](#)** - Real-Time Chat Application  
+- **[Whisper]** - Real-Time Chat Application  
   ➝ Laravel + Pusher + Echo for WebSocket-based instant messaging.  
 
 ## My Skills
