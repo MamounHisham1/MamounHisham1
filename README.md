@@ -7,40 +7,31 @@ Passionate about coding, problem-solving, and continuous learning, I strive to d
 
 ## 🚀 Top Projects
 
+### Seraty — AI-Powered CV Builder & ATS Optimizer
+[![Seraty](https://img.shields.io/badge/Live-seraty.softland.tech-412991?style=flat-square&logo=openai&logoColor=white)](https://seraty.softland.tech) [![Code](https://img.shields.io/badge/Code-cv-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/MamounHisham1/cv)
+➝ AI-driven resume builder with **autonomous agents** — CvBuilder, CvEvaluator & InterviewEvaluator.
+➝ **ATS optimization**, keyword & job-description analysis, professional summary generation, smart template selection.
+➝ Vector search over resumes/evaluations, monthly credits & billing, Fortify auth.
+
+### Samsar — Real-Time Marketplace Platform
+[![Samsar](https://img.shields.io/badge/View-Samsar-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/MamounHisham1/samsar-api)
+➝ Versioned **REST API** for classifieds/marketplace — listings, offers, deals, reviews, advanced search. Companion **React Native** mobile app.
+➝ **Real-time chat** via Laravel Reverb, Sanctum + Socialite auth, localization, admin panel.
+
+### Traitor Game — Real-Time Multiplayer Party Game
+[![Traitor](https://img.shields.io/badge/View-Traitor_Game-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/MamounHisham1/imposter-server)
+➝ Real-time party-game backend with rooms, rounds, voting & stats over **Laravel Reverb WebSockets** + Inertia.
+➝ **AI word generation** (Laravel AI), in-game shop & credits economy, full analytics suite, OAuth social auth.
+
 ### Fahm — Multi-Tenant EdTech SaaS
 [![Fahm](https://img.shields.io/badge/View-Fahm-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/MamounHisham1/Fahm)
 ➝ Full LMS / video-learning platform with **multi-tenant architecture** and isolated Filament admin panels.
 ➝ **Stripe billing** (Laravel Cashier), Livewire Volt/Flux, Cloudinary media, YouTube playlist import, classrooms, assignments & grading.
 
-### Magzani — ERP, Inventory & Accounting System
-[![Magzani](https://img.shields.io/badge/View-Magzani-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/MamounHisham1/magzani)
-➝ Full **ERP / inventory + accounting** suite — purchases, sales, returns, stock transfers, warehouses, manufacturing & cost accounting.
-➝ Event-driven architecture, reporting + **Excel/PDF exports**, Redis cache, role middleware, Spatie backup.
-
-### Samsar API — Real-Time Marketplace Backend
-[![Samsar API](https://img.shields.io/badge/View-Samsar_API-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/MamounHisham1/samsar-api)
-➝ Versioned **REST API** for classifieds/marketplace — listings, offers, deals, reviews, advanced search. Companion **React Native** mobile app.
-➝ **Real-time chat** via Laravel Reverb, Sanctum + Socialite auth, localization, admin panel.
-
-### Imposter Server — Real-Time Multiplayer Game
-[![Imposter](https://img.shields.io/badge/View-Imposter-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/MamounHisham1/imposter-server)
-➝ Real-time party-game backend with rooms, rounds, voting & stats over **Laravel Reverb WebSockets** + Inertia.
-➝ **AI word generation** (Laravel AI), in-game shop & credits economy, full analytics suite, OAuth social auth.
-
 ### StudentMate — Multi-Tenant Student Platform
 [![StudentMate](https://img.shields.io/badge/View-StudentMate-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/MamounHisham1/studentmate)
 ➝ Team-based **multi-tenancy** with roles/permissions, Fortify auth + OAuth (Socialite).
 ➝ Laravel + **Inertia + React + TypeScript**, Radix UI/shadcn components, Prism AI integration, CI pipeline.
-
-### Coursenter — Multi-Tenant Education Center SaaS
-[![Coursenter](https://img.shields.io/badge/View-Coursenter-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/MamounHisham1/coursenter)
-➝ True multi-tenancy via **stancl/tenancy**, center onboarding, Fortify (phone login + 2FA).
-➝ Course/session scheduling engine with conflict detection, attendance tracking, assessments, S3 storage, Redis.
-
-### Paygate — Payment Gateway Platform
-[![Paygate](https://img.shields.io/badge/View-Paygate-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/MamounHisham1/paygate)
-➝ Payment-gateway platform — API-key/token auth, **payment links**, hosted checkout, **webhook system**.
-➝ Versioned API, merchant dashboard + admin, withdrawals, order/transaction management.
 
 ### Meead — Clinic Management System
 [![Meead](https://img.shields.io/badge/View-Meead-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/MamounHisham1/meead)
